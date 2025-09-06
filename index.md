@@ -1,20 +1,20 @@
 ---
-title: Home
+title: Blog
 ---
 
 # Home
 
-## Introduction
+## About
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Electronics, programming languages, logic, and my other interests
+
+**Bold Text** _Italic Text_ **_Bold and Italic Text_**
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+- Bullet Point 1
+- Bullet Point 2
+- Bullet Point 3
 
 ## Background
 
@@ -33,6 +33,5 @@ _Italic Text_
 ## External Links
 
 [example link to idealab](https://idealab.asu.edu)
-
 
 ## References
