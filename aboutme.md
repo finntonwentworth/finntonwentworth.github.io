@@ -14,5 +14,8 @@ Serving first and foremost as a way to explain these topics to myself.
 </p>
 
 ## Links
+[github]
+
+
 [github]: https://github.com/finntonwentworth
 [LinkdIn]: ()
